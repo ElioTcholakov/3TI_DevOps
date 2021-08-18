@@ -46,12 +46,61 @@ Screenshot of ...:
 Task 2 -- Ansible Skills Test
 ------------
 
+Task Preperation
 
+
+    
+Task implementation
+
+    
+
+Task troubleshooting
+
+
+
+Task verification
 
 Task 3 -- Docker
 ------------
 
+Task Preperation
 
+
+    
+Task implementation
+
+    
+
+Task troubleshooting
+
+
+
+Task verification
 
 Task 4 -- Webex Teams API
 ------------
+
+Task Preperation
+
+    Inloggen op webex developer website met je webex account inloggen en je access token aanvragen.
+    
+Task implementation
+
+    **Scripts gebaseerd op die van het labo 8.6.7**
+    
+    Authorizeren van mijn webex account:
+    ![Authorization](authorization.png "Authorization")
+    Aanmaken van een room:
+    ![Create Room](roomcreation.png "Create Room")
+    Het toevoegen van een member:
+    ![Add Member](Webex/addmember.png "Add Member")
+    Het sturen van een bericht:
+    ![Send Message](sendmessage.png "Send Message")
+
+Task troubleshooting
+
+    Het was niet meteen duidelijk wat de room id was: (bv owner-id, id, ...)
+    Uiteindelijk bleek het de eerste id te zijn die niet leek te werken de eerste keer
+    zoals op de schermopname kan gezien worden.
+
+Task verification
