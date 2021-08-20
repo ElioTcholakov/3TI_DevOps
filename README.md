@@ -56,7 +56,7 @@ Task implementation
 Task troubleshooting
 
 - Bij het uitvoeren van het commando: "ansible-playbook -v ntp_install.yml", kreeg ik de volgende error:
-![Error](Ansible/Ansible-Error.png "error")
+![Error](Ansible/Ansible-error.png "error")
 
 Task verification
 
