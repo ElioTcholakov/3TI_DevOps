@@ -56,6 +56,9 @@ Task implementation
 - Aanmaken playbook met naam "ntp_install.yml"  
 - Connectie testen met ping-commando
 
+Alle bestanden voor deze opdracht:
+https://github.com/ElioTcholakov/3TI_DevOps/tree/master/Ansible
+
 Task troubleshooting
 
 - Bij het uitvoeren van het commando: "ansible-playbook -v ntp_install.yml", kreeg ik de volgende error:
@@ -80,6 +83,9 @@ Task implementation
 - Implementeren van code in Dockerfile
 - Een Docker Image maken van het bestand
 - Het laten runnen in een container   
+
+Alle bestanden voor deze opdracht:
+https://github.com/ElioTcholakov/3TI_DevOps/tree/master/Docker
 
 Task troubleshooting
 - Docker kon geen container aanmaken waardoor ik het niet kon 'runnen':
@@ -110,6 +116,9 @@ Python Scripts aanmaken:
 ![Add Member](Webex/addmember.png "Add Member")
 - Het sturen van een bericht:
 ![Send Message](Webex/sendmessage.png "Send Message")
+
+Alle scripts voor deze opdracht:
+https://github.com/ElioTcholakov/3TI_DevOps/tree/master/Webex
 
 Task troubleshooting
 
