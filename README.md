@@ -61,6 +61,7 @@ Task troubleshooting
 Task verification
 
 Connectie testen met host:
+
 ![connection](Ansible/ntpPing.png "connection")
 
 
