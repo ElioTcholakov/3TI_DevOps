@@ -58,7 +58,7 @@ Task troubleshooting
 
 
 
-Task verification
+
 
 Task 3 -- Docker
 ------------
@@ -66,7 +66,7 @@ Task 3 -- Docker
 Task Preperation
 
     Maak een lege DockerFile aan
-    Maak een Ansible playbook aan met gegeven code
+    Bestudeer de code van het gegeven Ansible playbook
     
 Task implementation
 
@@ -74,9 +74,9 @@ Task implementation
 
 Task troubleshooting
 
+    Docker kon geen container aanmaken
 
 
-Task verification
 
 Task 4 -- Webex Teams API
 ------------
