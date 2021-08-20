@@ -11,16 +11,16 @@ Task Preperation
     
 Task implementation
 
-- De directory "Devasc_Skills" aanmaken
+- De folder "Devasc_Skills" aanmaken
 - Git initialiseren
     "git init"
+- De lokale directory linken aan de remote repository
+    git remote add origin https://github.com/ElioTcholakov/  Devasc_Skills.git
 - README.md aanmaken in de dir
 - Staging van alle bestanden
     git add .
-- Tracking changes
-    git commit -m "Task 1: Manage github scripts and documents"
-- De lokale directory linken aan de remote repository
-    git remote add origin https://github.com/ElioTcholakov/  Devasc_Skills.git
+- Commit van bestanden
+    git commit -m "Task 1: Github Skills test"
 - Gestagede bestanden naar remote repository uploaden
     git push origin master
 
@@ -56,12 +56,11 @@ Task implementation
 Task troubleshooting
 
 - Bij het uitvoeren van het commando: "ansible-playbook -v ntp_install.yml", kreeg ik de volgende error:
-![Error](Ansible/Ansible-error.png "error")
+![Error](Ansible/Ansible-Error.png "error")
 
 Task verification
 
 Connectie testen met host:
-
 ![connection](Ansible/ntpPing.png "connection")
 
 
@@ -97,6 +96,7 @@ Task Preperation
     
 Task implementation
 
+Python Scripts aanmaken:
 *Scripts gebaseerd op die van het labo 8.6.7*
 
 - Authorizeren van mijn webex account:
