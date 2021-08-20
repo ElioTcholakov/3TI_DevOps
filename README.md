@@ -35,8 +35,11 @@ Task troubleshooting
 
 Task verification
 
+Succesvol stagen en committen:
+![add-commit](Github/git-status.png "add-commit")
+
 Succesvol pushen naar de remote repository:
-![Failed-Run](Github/success.png "github")
+![push](Github/success.png "github")
 
 
 
