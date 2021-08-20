@@ -56,6 +56,7 @@ Task implementation
 Task troubleshooting
 
 - Bij het uitvoeren van het commando: "ansible-playbook -v ntp_install.yml", kreeg ik de volgende error:
+![Error](Ansible/Ansible-Error.png "error")
 
 Task verification
 
@@ -79,11 +80,11 @@ Task implementation
 
 Task troubleshooting
 - Docker kon geen container aanmaken waardoor ik het niet kon 'runnen':
-![Failed-Run](Docker/docker run.png "run")
+![Failed-Run](Docker/dockerRun.png "run")
 
 Task verification
 De build van de Docker Image:
-![Build](Docker/docker image build.png "1")
+![Build](Docker/imageBuild.png "1")
 
 Task 4 -- Webex Teams API
 ------------
