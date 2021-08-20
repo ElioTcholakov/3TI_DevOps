@@ -90,7 +90,7 @@ Task implementation
     **Scripts gebaseerd op die van het labo 8.6.7**
     
     Authorizeren van mijn webex account:
-    ![Authorization](authorization.png "Authorization")
+    https://github.com/ElioTcholakov/3TI_DevOps/blob/master/Webex/authorization.png
     Aanmaken van een room:
     ![Create Room](roomcreation.png "Create Room")
     Het toevoegen van een member:
