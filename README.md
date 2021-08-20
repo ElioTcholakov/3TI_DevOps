@@ -65,7 +65,8 @@ Task 3 -- Docker
 
 Task Preperation
 
-
+    Maak een lege DockerFile aan
+    Maak een Ansible playbook aan met gegeven code
     
 Task implementation
 

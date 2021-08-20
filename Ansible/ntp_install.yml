@@ -1,0 +1,12 @@
+---
+- name: ntp_install
+  hosts: ntpserver
+  gather_facts: false
+  connection: local
+ 
+  tasks:
+ - name: set timezone
+    shell: timedatectl set-timezone America/New_York
+
+ - name: Install NTP
+    yum: name=ntp state=installed
