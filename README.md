@@ -36,6 +36,7 @@ Task troubleshooting
 Task verification
 
 Succesvol pushen naar de remote repository:
+![Failed-Run](Github/success.png "github")
 
 
 
@@ -59,6 +60,7 @@ Task troubleshooting
 Task verification
 
 Connectie testen met host:
+![connection](Ansible/ntpPing.png "connection")
 
 
 Task 3 -- Docker
@@ -76,11 +78,12 @@ Task implementation
 - Het laten runnen in een container   
 
 Task troubleshooting
-
 - Docker kon geen container aanmaken waardoor ik het niet kon 'runnen':
+![Failed-Run](Docker/docker run.png "run")
 
-
-
+Task verification
+De build van de Docker Image:
+![Build](Docker/docker image build.png "1")
 
 Task 4 -- Webex Teams API
 ------------
@@ -95,13 +98,13 @@ Task implementation
 *Scripts gebaseerd op die van het labo 8.6.7*
 
 - Authorizeren van mijn webex account:
-https://github.com/ElioTcholakov/3TI_DevOps/blob/master/Webex/authorization.png
+![Authorization](Webex/authorization.png "Authorization")
 - Aanmaken van een room:
-![Create Room](roomcreation.png "Create Room")
+![Create Room](Webex/roomcreation.png "Create Room")
 - Het toevoegen van een member:
 ![Add Member](Webex/addmember.png "Add Member")
 - Het sturen van een bericht:
-![Send Message](sendmessage.png "Send Message")
+![Send Message](Webex/sendmessage.png "Send Message")
 
 Task troubleshooting
 
@@ -114,4 +117,4 @@ Task troubleshooting
 Task verification
 
 Het resultaat:
-
+![Result](Webex/webex-group-result.png "Result")
